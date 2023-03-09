@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>RGT 与书</title>
+        <link>http://marine5174.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>marine5174@gmail.com (Marine)</managingEditor>
+            <webMaster>marine5174@gmail.com (Marine)</webMaster><lastBuildDate>Thu, 09 Mar 2023 15:20:48 &#43;0800</lastBuildDate>
+            <atom:link href="http://marine5174.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>About</title>
+    <link>http://marine5174.github.io/posts/about/</link>
+    <pubDate>Thu, 09 Mar 2023 15:20:48 &#43;0800</pubDate>
+    <author>Marine</author>
+    <guid>http://marine5174.github.io/posts/about/</guid>
+    <description><![CDATA[Marine is an engineer and a reader. The blog records various randomly generated thoughts during his reading and working.]]></description>
+</item>
+</channel>
+</rss>
